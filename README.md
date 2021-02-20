@@ -1,1 +1,1 @@
-![](pokedex-vue.gif)
+![Pokedex](pokedex-vue.gif)
